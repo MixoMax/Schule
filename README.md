@@ -1,4 +1,4 @@
-# Schule
+# Schule Readme Index
  
 Github Repository für Schulmitschriften und -aufgaben.
 -
