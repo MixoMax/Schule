@@ -5,8 +5,8 @@ Github Repository für Schulmitschriften und -aufgaben.
 
 ## Inhalte
 
-- [S1](S1/README.md)
-    - [Bio](S1/Bio/README.md)
+- [S1](S1/S1.md)
+    - [Bio](S1/Bio/Bio.md)
     - [BOSO](S1/Boso/README.md)
     - [Deutsch](S1/Deutsch/README.md)
     - [Englisch](S1/Englisch/README.md)
