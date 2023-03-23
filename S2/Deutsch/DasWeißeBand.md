@@ -51,4 +51,6 @@ Farbe:
 
 <img src="https://imgur.com/K5ciSPv.jpg" style="width:50%; border-radius: 2%">
 
+Dunkel -> Hell
+
 Licht:

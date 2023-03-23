@@ -23,22 +23,10 @@ All of the Countries are stronger together then bythemselves. The song is about 
 The Song relies heavily on a Choir of singers / vocalists. The song is about unity and the Choir is a symbol for that.
 
 
-## Commonwealth AB
+## What are contries that violate the basic principles of the Commonwealth?
 
-
-
-
-#### What is the Status of the Commonwealth
-
-
-
-#### What ere the basic criteria the member states have to meet?
-
-
-
-#### Which aims and goals are promoted, and which principles pursued by the Commonwealth?
-
-
-
-#### What are some benefits for the member states?
+- Nigeria
+- Pakistan
+- Fiji (after 1987 Military coup, reinstated in 2006 after a democratic election)
+- Zimbabwe (for 1 year after rigged elections in 2002)
 

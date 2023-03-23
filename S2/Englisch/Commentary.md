@@ -1,0 +1,3 @@
+# Comentary on "The Commonwealth - What is it for?"
+
+The Commonwealth, an organization committed to promoting democracy, human rights, and the rule of law, has often failed to enforce its values, with many coups and killings left un-sanctioned. However, it is cheap, runs a successful quadrennial games, a respected annual literary prize, and a decent scholarship program, and could help post-prosperity among a third of the world's population with its colonial ties, including a common law.
