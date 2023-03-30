@@ -34,7 +34,45 @@
     * Abhängigkeit der Fotosynthese von Umweltfaktoren
 
 * Atmung
-    *Energieumwandlung, ADP/ATP
+    * Energieumwandlung, ADP/ATP
+
+
+Energievewertung verschiedener Lebewesen Gruppen
+
+Konsumption -> Defäkation<br>
+    | <br>
+    V<br>
+Assimilation -> Dissimilation<br>
+    |<br>
+    V<br>
+
+Produktion
+    |<br>
+    V<br>
+Wachstum, Fortpflanzung und Abscheidung
+
+<br>
+
+Verschiedene Lebewesen haben unterchiedliche Energieverteilungen:
+
+| Lebewesen | Konsumption | Defäkation | Assimilation | Dissimilation | Produktion |
+|-----------|-------------|------------|--------------|---------------|------------|
+|Huftiere   | 100%        | 34%        | 66%          | 64%           | 2%         |
+|Nagetiere | 100% | 16% | 84% |81% | 3% |
+|Greifvögel | 100% | 10% | 90% | 89% | 1% |
+|Insekten | 100% | 40% | 60% | 23% | 37% |
+
+Konsumption -> Nahrungsaufnahme
+
+Defäktion -> Nahrungsausscheidung
+
+Assimilation -> Einbau in körpereigene Substanzen
+
+Dissimilation -> Zellatmung
+
+Produktion -> Herrstellung neuer Biomasse
+
+**Auffallend**: Insekten haben eine sehr hohe Produktion, da sie sehr effizient Energie umwandeln können.
 
 
 ## Standortfaktoren
@@ -53,7 +91,3 @@
 * Ökologische Nische
 * Struktur eines Ökosystems
 
-
-## 20/03/2023
-
-Aufgabe: 
