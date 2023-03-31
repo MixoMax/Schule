@@ -58,9 +58,9 @@ Verschiedene Lebewesen haben unterchiedliche Energieverteilungen:
 | Lebewesen | Konsumption | Defäkation | Assimilation | Dissimilation | Produktion |
 |-----------|-------------|------------|--------------|---------------|------------|
 |Huftiere   | 100%        | 34%        | 66%          | 64%           | 2%         |
-|Nagetiere | 100% | 16% | 84% |81% | 3% |
-|Greifvögel | 100% | 10% | 90% | 89% | 1% |
-|Insekten | 100% | 40% | 60% | 23% | 37% |
+|Nagetiere  | 100%        | 16%        | 84%          | 81%           | 3%         |
+|Greifvögel | 100%        | 10%        | 90%          | 89%           | 1%         |
+|Insekten   | 100%        | 40%        | 60%          | 23%           | 37%        |
 
 Konsumption -> Nahrungsaufnahme
 
@@ -74,6 +74,39 @@ Produktion -> Herrstellung neuer Biomasse
 
 **Auffallend**: Insekten haben eine sehr hohe Produktion, da sie sehr effizient Energie umwandeln können.
 
+### Wie lässt sich die Energieverteilung Messen?
+
+Messbar:
+- Defäkation
+- Produktion
+
+rest = Dissimilation
+
+Assimilation = Dissimilation + Produktion
+
+**Probleme:**
+- Gemeinsame Maßeinheit: Trockengewicht / Tag
+- Unterschiedlicher Nahrunsgbedarf in verschiedenen Entwicklungsperioden
+- Unterschiedliche Lebensdauer ( Gleicher Zeitraum oder Lebensdauer Prozentual)?
+
+**Methodisceh Vorüberlegungen:**
+- Absoulute oder relative Werte?
+
+
+Wärmeverlusst zwischen Stufen der Nahrungskette
+
+Pfeil A: Wärme Verlusst
+Pfeil B: Weitergegebene Energie
+Pfeil C: 
+
+
+Masse != Energie
+
+Energie wird nicht verloren, sondern nur umgewandelt
+
+Energie = Masse * c * ΔT
+
+c = spezifische Wärmekapazität
 
 ## Standortfaktoren
 

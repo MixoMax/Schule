@@ -73,3 +73,4 @@ v = 1.75e6 m/s (Geschwindigkeit)
 B = 1.2 T (Magnetfeldstärke)
 
 
+
