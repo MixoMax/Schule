@@ -1,7 +1,9 @@
+import random
 
 #TODO
 # - ist_identisch von yannick fixen lassen
-# - hat_Schnittpunkt schreiben lassen von chatgpt
+# - GUI ? (kivy)
+
 
 class Vec():
     def __init__(self, x: float, y: float, z: float = 0) -> None:
@@ -41,31 +43,61 @@ def ist_identisch(g1: Gerade, g2: Gerade) -> bool:
     
     p2 = (g2.stützvec.x + r * g2.richtungvec.x * mult, g2.stützvec.y + r * g2.richtungvec.y * mult, g2.stützvec.z + r * g2.richtungvec.z * mult)
     
-    print(p1, p2)
+    print(p1,p2)
     
     return p1 == p2
+    
+    
     
 def hat_Schnittpunkt(g1: Gerade, g2: Gerade) -> bool:
     """Berechnet ob sich zwei Geraden schneiden"""
     if ist_identisch(g1, g2):
         return True
     if ist_parallel(g1, g2):
-        return False if not ist_identisch(g1, g2) else True
+        return False
     
-    pass
+    denominator = g1.richtungvec.x * g2.richtungvec.y - g1.richtungvec.y * g2.richtungvec.x
+    
+    if denominator == 0:
+        return False
+    
+    # calculate the point of intersection
+    # t is the parameter for g1, s is the parameter for g2
+    # equations from https://en.wikipedia.org/wiki/Line%E2%80%93line_intersection
+    t = ((g2.stützvec.x - g1.stützvec.x) * g2.richtungvec.y - (g2.stützvec.y - g1.stützvec.y) * g2.richtungvec.x) / denominator
+    s = ((g2.stützvec.x - g1.stützvec.x) * g1.richtungvec.y - (g2.stützvec.y - g1.stützvec.y) * g1.richtungvec.x) / denominator
+    
+    # check if the point lies on both lines
+    p = Vec(g1.stützvec.x + t * g1.richtungvec.x, g1.stützvec.y + t * g1.richtungvec.y, g1.stützvec.z + t * g1.richtungvec.z)
+    q = Vec(g2.stützvec.x + s * g2.richtungvec.x, g2.stützvec.y + s * g2.richtungvec.y, g2.stützvec.z + s * g2.richtungvec.z)
+    
+    return p == q
 
 def ist_windschief(g1: Gerade, g2: Gerade) -> bool:
     """Berechnet ob zwei Geraden Windschief sind"""
     
-    return False if hat_Schnittpunkt(g1, g2) and not ist_parallel(g1, g2) else True
+    return False if ist_parallel(g1, g2) or ist_identisch(g1, g2) else True
 
 
+def ascii_table(g1: Gerade, g2: Gerade) -> None:
+    
+    labels = ["Parallel", "Identisch", "Schnittpunkt", "Windschief"]
+    values = [ist_parallel(g1, g2), ist_identisch(g1, g2), hat_Schnittpunkt(g1, g2), ist_windschief(g1, g2)]
+    
+    #print header
+    
+    print(f"{'Kategorie':<15} | {'Wert':<15}")
+    
+    print("-" * 30)
+    
+    for i in range(len(labels)):
+        print(f"{labels[i]:<15} | {values[i]}")
 
-g1 = Gerade(Vec(0, 0, 0), Vec(-1, -1, 0))
 
-g2 = Gerade(Vec(0, 0, 0), Vec(0, 0, 1))
+g1 = Gerade(Vec(1,1,1),Vec(1,2,-2))
+g2 = Gerade(Vec(3,5,-30),Vec(-3,-6,6))
 
-print("parallel", ist_parallel(g1, g2))
-print("identisch", ist_identisch(g1, g2))
-print("schnittpunkt", hat_Schnittpunkt(g1, g2))
-print("windschief", ist_windschief(g1, g2))
+g1 = Gerade(Vec(0,0), Vec(1,1))
+g2 = Gerade(Vec(1,1), Vec(2,2))
+
+ascii_table(g1, g2)
