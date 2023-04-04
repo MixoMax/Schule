@@ -14,3 +14,7 @@ in Relation zu einer der Achsen, steigt die Oberfläche mit dem Quadrat und das 
 Dies bedeutet, dass bei größeren Insekten die Oberfläche im Verhältnis zum Volumen immer kleiner wird. Dies ist ein Problem, da die Oberfläche für das Atmen benötigt wird.
 
 im verhältnis zum Volumen wächst die Oberfläche mit dem Quadrat und das Volumen mit dem Kubus.
+
+
+## Systematik
+

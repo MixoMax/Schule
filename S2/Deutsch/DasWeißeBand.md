@@ -54,3 +54,19 @@ Farbe:
 Dunkel -> Hell
 
 Licht:
+
+
+
+## Sequenzanalyse
+
+- Sequenz != Shot
+
+Ton Wichtig:
+
+Diagektik -> Was die Charaktere hören können
+Non-Diagektik -> Was die Charaktere nicht hören können (z.b. Musik oder Erzählende Stimme)
+
+
+|Nr. | Spielzeit | Text (Dialog) | Bildgestaltung  | Kamera | Montage | Ton |
+|:--:|:---------:|:-------------:|:---------------:|:------:|:-------:|:---:|
+|

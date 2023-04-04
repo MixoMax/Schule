@@ -39,3 +39,7 @@ Aufgabe 3:
 
 "Für die Lebensstandardsicherung im Alter ist jeder selbst zuständig." Nehmen sie begründet stellung zu dieser AUssage, und diskutieren sie die Pro- und Kontraargumente in der Lerngruppe.
 
+
+
+
+

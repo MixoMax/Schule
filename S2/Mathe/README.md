@@ -5,3 +5,4 @@
 ## Inhalt
 
 - [Kopfrechnungen](Kopfrechnungen.md)
+- [Geraden](./Geraden.md)

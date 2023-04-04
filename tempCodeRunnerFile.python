@@ -1,7 +1,0 @@
-import numpy as np
-
-n = 460
-
-#find the third root of n
-
-print(n**(1/3))
