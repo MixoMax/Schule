@@ -1,6 +1,8 @@
 import datetime
 import os
 
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
 day = datetime.datetime.now().strftime("%d")
 month = datetime.datetime.now().strftime("%m")
 year = datetime.datetime.now().strftime("%Y")
