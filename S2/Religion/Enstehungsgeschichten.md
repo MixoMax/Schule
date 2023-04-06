@@ -23,3 +23,12 @@ Gutt schuf den Menschen als abbild von ihm. Gott gab den Menschen einen Herrscha
 ## Text: ""Schöpfung" - Was heißt das und was heißt es nicht?" Zusammenfassung
 
 Der Text beschäftigt sich mit dem Begriff der Schöpfung, der einen transzendentalen Ursprung bezeichnet, der allem Welthaften zugrunde liegt. Es geht nicht um einen Anfang im zeitlichen Sinne, sondern um den prinzipiellen Sinn der Begründung. Die Theologie unterscheidet zwischen Schöpfung und Veränderung und will den Grund des Ganzen verstehen, um die Welt und ihren Sinn begreifbar zu machen. Der transzendentale Urgrund kann nicht Gegenstand sinnlicher Erfahrung und empirischer Wissenschaft sein, da er ihnen schon zugrunde liegt. Sinnliche Anschauung und Empirie haben nur die Welt selber zum Gegenstand.
+
+
+
+# Kreationismus und Evolutionstheorie
+
+## AB: "Vom Urknall zum Leben - was besagt die Evolutionstheorie?"
+
+1. Die Bereiche der Wirklichkeit müssen klar begrenzt sein und sich auf einen Teil der Wirklichkeit beziehen, der empirisch fassbar ist und mit den Methoden der Naturwissenschaften untersucht werden kann. Beobachtungen und Daten müssen gesammelt werden, um Hypothesen und Theorien zu bilden, die dann durch weitere Beobachtungen und/oder Experimente überprüft werden müssen. Die Theorien müssen der Kausalität gehorchen und empirisch prüfbar sein, um als naturwissenschaftliche Aussagen zu gelten.
+2. Hemminger argumentiert, dass Naturwissenschaften nur Fragen beantworten können, die sich mit ihren Methoden untersuchen lassen, und dass es sinnvolle Fragen gibt, die naturwissenschaftlich nicht beantwortbar sind, nennt aber keine Beispiele außer der Existenz Gottes. Die Wirklichkeit, in der wir leben, kann daher nicht einmal annähernd naturwissenschaftlich erfasst werden. Der Text wurde offentichtlich von einem Theologen geschrieben, der das Spaltungsverhältnis zwischen Naturwissenschaft und Theologie vertritt.

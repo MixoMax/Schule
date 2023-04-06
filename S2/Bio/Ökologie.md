@@ -124,3 +124,7 @@ c = spezifische Wärmekapazität
 * Ökologische Nische
 * Struktur eines Ökosystems
 
+Madagaskar vs Amrum:
+
+Auf Welcher Insel sind mehr Trophiestufen möglich?
+

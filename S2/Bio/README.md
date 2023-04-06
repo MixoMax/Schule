@@ -8,6 +8,7 @@ Herr Trucks
 
 - [Gentechnik](./Gentechnik.md)
 - [Ökologie](./Ökologie.md)
+- [Insekten](./Insekten.md)
 
 ## Arbeiten
 
