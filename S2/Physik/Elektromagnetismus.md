@@ -74,3 +74,4 @@ B = 1.2 T (Magnetfeldstärke)
 
 
 
+

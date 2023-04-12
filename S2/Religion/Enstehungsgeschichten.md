@@ -32,3 +32,29 @@ Der Text beschäftigt sich mit dem Begriff der Schöpfung, der einen transzenden
 
 1. Die Bereiche der Wirklichkeit müssen klar begrenzt sein und sich auf einen Teil der Wirklichkeit beziehen, der empirisch fassbar ist und mit den Methoden der Naturwissenschaften untersucht werden kann. Beobachtungen und Daten müssen gesammelt werden, um Hypothesen und Theorien zu bilden, die dann durch weitere Beobachtungen und/oder Experimente überprüft werden müssen. Die Theorien müssen der Kausalität gehorchen und empirisch prüfbar sein, um als naturwissenschaftliche Aussagen zu gelten.
 2. Hemminger argumentiert, dass Naturwissenschaften nur Fragen beantworten können, die sich mit ihren Methoden untersuchen lassen, und dass es sinnvolle Fragen gibt, die naturwissenschaftlich nicht beantwortbar sind, nennt aber keine Beispiele außer der Existenz Gottes. Die Wirklichkeit, in der wir leben, kann daher nicht einmal annähernd naturwissenschaftlich erfasst werden. Der Text wurde offentichtlich von einem Theologen geschrieben, der das Spaltungsverhältnis zwischen Naturwissenschaft und Theologie vertritt.
+
+## Auf der Suche nach dem Sinn- drei grundlegende Fragen des Lebens
+
+Woher komme ich?
+
+    Evolutionstheorie als Erklärung für die Entstehung des Lebens und der Menschen. Auf Individualebene: Aus dem Genpool der Eltern
+
+Wozu bin ich in der Welt? / Was soll ich tun? -> Frage nach Sinn und Ethik
+
+    Evolutionstheorie: Überleben der Individuen und damit der Spezies. Auf Individualebene: Verbreitung des eigenen Genpools
+
+Wohin gehe ich? / Was darf ich hoffen? -> Frage nach dem Tod und dem Jenseits
+
+    Zersetzung des Körpers durch die Naturkräfte
+
+
+## Grundlegende Fragen des Lebens in den Schöpfungsmythen:
+
+| | Genesis 1 | Genesis 2 |
+| --- | --- | --- |
+|Woher komme ich?| Gottes Worte | Aus Staub |
+|Wozu bin ich in der Welt? | Fortpflanzung, Herrschaft über die Erde | Garten Eden Beschützen, um eine Familie zu gründen |
+|Wohin gehe ich?| Wird nicht erwähnt | Wird nicht erwähnt |
+
+
+## Weltbild 2: 
