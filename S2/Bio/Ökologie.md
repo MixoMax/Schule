@@ -128,3 +128,21 @@ Madagaskar vs Amrum:
 
 Auf Welcher Insel sind mehr Trophiestufen möglich?
 
+
+
+## Biomasse und Produktion zwischen Land und Wasser Ökosystemen
+
+Bei Wasserökosystemen folgt die Biomasseverteilung nicht einer Pyramide, da weniger Verlust durch abwärme stattfindet, da Fische Wechselwarme Tiere sind.
+
+Wasserökosysteme haben einen höheren ökologischen Wirkungsgrad.ei Wasserökosystemen folgt die Biomasseverteilung nicht einer Pyramide, da weniger Verlust durch abwärme stattfindet, da Fische Wechselwarme Tiere sind.
+
+Wasserökosysteme haben einen höheren ökologischen Wirkungsgrad.
+
+Primärproduktion in Wasserökosystemen ist effizienter als in Landökosystemen. (Pro Biomasse)
+
+
+Primärproduktion in Wasserökosystemen ist effizienter als in Landökosystemen. (Pro Biomasse)
+
+
+
+Ökologische Effizienz geht nicht nach Biomasse, sondern Energie bzw. Produktion.
