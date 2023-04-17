@@ -96,3 +96,4 @@ Diversifizierung der Branchen und Betriebsstrukturen ist eine wichtige Basis fü
 ### 5) Erörtern sie die Bezeichnung "Symbol des Strukturwandels" für die Zeche Zollverein.
 
 Die Zeche Zollverein ist ein Symbol des Strukturwandels, da sie ein Beispiel für die Deindustrialisierung und die Reindustrialisierung ist. Die Zeche Zollverein war einst ein Stahlwerk, welches 1986 geschlossen wurde. Heute ist die Zeche Zollverein ein UNESCO-Weltkulturerbe und ein beliebtes Ausflugsziel. Die Zeche Zollverein ist ein Beispiel für die Reindustrialisierung, da sie einst ein Stahlwerk war und heute ein beliebtes Ausflugsziel ist. Die Zeche Zollverein ist ein Beispiel für die Deindustrialisierung, da sie einst ein Stahlwerk war und heute ein beliebtes Ausflugsziel ist.
+
