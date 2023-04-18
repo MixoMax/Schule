@@ -144,5 +144,46 @@ Primärproduktion in Wasserökosystemen ist effizienter als in Landökosystemen.
 Primärproduktion in Wasserökosystemen ist effizienter als in Landökosystemen. (Pro Biomasse)
 
 
-
 Ökologische Effizienz geht nicht nach Biomasse, sondern Energie bzw. Produktion.
+
+
+Einheiten:
+
+- Biomasse: g_trocken / m^2
+- Produktion: g_trocken / m^2 / Tag
+
+
+## Nomenklatur
+
+Stämme
+Klassen
+Ordnungen
+Familien
+Gattungen
+Arten
+
+
+| Ordnung | Nr. |
+|---------|-----|
+| Skorpione | 1 |
+| Webspinnen | 3 |
+| Weberknechte | 7 |
+| Milben | 8 |
+| Zehnfüßer | 4 |
+| Asseln | 18 |
+| Silberfische | 14 |
+| Libellen | 12 |
+| Ohrwürmer | 10 |
+| Heuschrecken | 16 |
+| Wanzen | 11 |
+| Käfer | 13 |
+| Hautflügler | 2 |
+| 
+
+
+Unterteilungen:
+
+| Klasse | Merkmale |
+|--------|----------|
+| Insekten | 3 Beinpaare, 3 Körpersegmente: Kopf, Thorax, Abdomen |
+| Spinnentiere | 4 Beinpaare, 2 Körpersegmente: Kopf, Thorax |
