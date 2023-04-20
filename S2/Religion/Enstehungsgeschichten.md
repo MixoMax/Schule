@@ -57,4 +57,5 @@ Wohin gehe ich? / Was darf ich hoffen? -> Frage nach dem Tod und dem Jenseits
 |Wohin gehe ich?| Wird nicht erwähnt | Wird nicht erwähnt |
 
 
-## Weltbild 2: 
+## Weltbild 2:
+

@@ -18,3 +18,4 @@ t = str(input("Push to GitHub? (y/n): "))
 
 if t.lower() in ["y", "yes", "1", "j", "ja"]:
     os.system("git push")
+    print("Pushed to GitHub!")

@@ -61,3 +61,6 @@ E_pot = cos(t)
 
 E_ges = E_kin + E_pot = 1
 
+
+## Experiment: "Gedämpfte Schwingung"
+
