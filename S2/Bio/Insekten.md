@@ -16,5 +16,4 @@ Dies bedeutet, dass bei größeren Insekten die Oberfläche im Verhältnis zum V
 im verhältnis zum Volumen wächst die Oberfläche mit dem Quadrat und das Volumen mit dem Kubus.
 
 
-## Systematik
 
