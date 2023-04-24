@@ -38,3 +38,6 @@ Questions for the video:
     - Harry and Meghans stepdown
 - The immediate future of the royals is not going to change
 
+
+## Article: "A Pay Rise for the Queen? She's Worth Every Penny"
+
