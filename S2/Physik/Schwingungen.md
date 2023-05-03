@@ -64,3 +64,9 @@ E_ges = E_kin + E_pot = 1
 
 ## Experiment: "Gedämpfte Schwingung"
 
+<img src="./Capture123.PNG" width="75%">
+
+
+
+Newtons 3. Axiom: F_1 = -F_2
+

@@ -66,4 +66,8 @@ Zur Sequenzanalyse: Abendessen
 
 14. Welche inhaltliche und asthetische Verbindung besteht zwischen dem Anfang und dem Ende der Sequenz?
 
-    Unwisesenhaig, Anspannung am Anfang -> Reue, Schuldgefühle am Ende
+    Unwissenheit, Anspannung am Anfang -> Reue, Schuldgefühle am Ende
+
+
+
+## 

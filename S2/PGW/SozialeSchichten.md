@@ -13,7 +13,7 @@
 - Lobbyarbeit der Reichen / der Firmen wird effektiver, während die Gewerkschaften immer weniger Einfluss haben.
 
 
-## AB: "Deutschland als Sotialstaat"
+## AB: "Deutschland als Sozialstaat"
 
 1a)
 
@@ -23,3 +23,20 @@
 | gibt es seit | 1927 | 1883 | 1995 | 1889 | 1884 |
 | hilf bei | Arbeitslosigkeit | Krankheit | Pflegebedürftigkeit | Alter | Unfall |
 | Finanziert durch | Arbeitgeber und Arbeitnehmer | Arbeitgeber und Arbeitnehmer | Arbeitgeber und Arbeitnehmer | Generationsvertrag | Arbeitgeber und Arbeitnehmer |
+
+
+## Aufgaben für Politsatire: "Neues aus der Anstalt folge 18"
+
+1. notiert 5 Thesen aus dem Film, die die Politischen Maßnahmen in dem Beschriebenen Zeitraum Charakterisieren und beurteilt diese Maßnahmen
+
+- Afd ist die falsche Richtung
+- Reichen geld wegzunehmen -> reiche können weniger investieren (Trickle-Down-Effekt) -> Wirtschaftswachstum
+- Vermögenssteuer nicht angewandt, da immobilien nicht bewertet werden können
+- Harz 4 empfänger werden genauer überprüft als Millionäre
+- Steuersenkungen sind für Reiche am Vorteilhaftesten
+- Mehrwertsteuererhöhung trifft die Armen am Härtesten
+
+These:
+"Die Erhöhung der Körperschaftssteuer auf die damaligen 65% von 1946 würde zu einer reicheren Unterschicht führen, die die Wirtschaft ankurbelt und somit zu einem Wirtschaftswachstum führt."
+
+"Die Ermitlung der Reichen ist in Deutschland nicht erwünscht"

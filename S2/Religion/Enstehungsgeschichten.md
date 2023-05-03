@@ -57,5 +57,56 @@ Wohin gehe ich? / Was darf ich hoffen? -> Frage nach dem Tod und dem Jenseits
 |Wohin gehe ich?| Wird nicht erwähnt | Wird nicht erwähnt |
 
 
-## Weltbild 2:
+## Projektaufgaben:
 
+Buch S. 23 Aufgabe 2, 3, 5
+
+2. Arbeiten sie heraus, wie Philosophen, Naturwissenschaftler und Maler die Wirklichkeit Wahrnehmen.
+
+    Philosophen: Wahrnehumg der Wirklichkeit als Sinn und Zweck -> Sinnfrage beantworten
+    Maler: 
+    Naturwissenschaftler: Wahrnehmung der Wirklichkeit als möglichst objektiv und wissenschaftlich -> Wirklichkeit beschreiben, regeln und erklären
+
+3. Analysieren sie, wie Erfahrungen, Verstand und Gefühle uns verschiedene Zugangswege zur Wirklichkeit erschließen. Beurteilen sie, für wie verlässlich  sie, für wie Verlässlich sie diese jeweils halten.
+
+    Meiner Meinung nach gibt es große Unterschiede in der Verlässlichkeit der Wahrnehmung der Wirklichkeit. Die Wahrnehmung durch Beobachtung und Erfahrung kann, ja nach dem, wie groß die Menge der Beobachtungen ist und, wieviel in diese Reinnterpretiert wird (z.B. alte Gottesgeschichten, die auf Beobachtung basieren). In hohen Mengen, sind Empirische Erfassungen am verlässlichsten, da sich anhand dieser dann Regeln und Naturwissenschaftliche Gesetze und Erklärungen aufstellen lassen. Der Verstand ist in der Lage, die Wirklichkeit zu verstehen, wird aber immer nur subjektive Wahrnehmung der Wirklichkeit sein. Gefühle sind die subjektive Wahrnehmung der Wirklichkeit, die durch die Erfahrungen und den Verstand beeinflusst wird. Gefühle sind daher nicht verlässlich, da sie immer subjektiv sind.
+
+    Fazit:
+    Erfahrungen können in großen Mengen nicht nur zur Wahrnehmung, sondern auch fürs Aufstellen von Regeln und somit (in gewisser weise) der Vorhersagung der Wirklichkeit genutzt werden. -> Verlässlich
+    Der Verstand liefert immer nur eine subjektive Wahrnehmung der Wirklichkeit, die nicht universell ist.
+    Gefühle sind immer subjektiv und daher nicht verlässlich.
+
+5. Erörten sie, wo man von Grenzüberschreitung der Naturwissenschaft sprechen kann.
+
+    Wenn die Naturwissenschaften die Grenzen der Wirklichkeit überschreiten, indem sie Dinge erklären, die nicht empirisch fassbar sind. (z.B. Quantenphysik, die suche nach Außerirdischen). Die Naturwissenschaften sind insofern auf das Beschränkt, was sowohl empirisch Beobachtbar ist, als auch wiederlegbar ist. Beispiele sind:
+
+    Nicht fassbar, nicht wiederlagbar:
+
+    - Existenz Gottes
+    - Existenz von (Fabelwesen)
+
+    Fassbar, nicht wiederlegbar:
+
+    - Existenz von Außerirdischen
+    - Existenz von Parallelwelten
+    - Schrödingers Katze
+
+    Nicht Fassbar, wiederlegbar:
+
+    - NA
+
+    Fassbar, wiederlegbar:
+
+    - Alle anderen Dinge
+
+
+## Lernübersicht:
+
+Verhältnis Theologie und Naturwissenschaften:
+
+- Modelle:
+    - Dominanzmodell: Nur eines der Beiden ist wahr (z.B. Kreationismus bzw. Evolutionstheorie)
+    - Spaltungsmodell: Glaube an beides, ünabhängigkeit der beiden Bereiche
+    - Komplementaritätsmodell: Beide ergänzen sich gegenseitig (z.B. Evolutionstheorie erklärt die Entstehung des Lebens, Theologie erklärt den Sinn des Lebens)
+
+- 
