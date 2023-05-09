@@ -39,5 +39,15 @@ Questions for the video:
 - The immediate future of the royals is not going to change
 
 
-## Article: "A Pay Rise for the Queen? She's Worth Every Penny"
+## AB: "The Coronation of Charles III: A New Path for the Monarchy?"
+
+the three stages of the coronation are:
+
+- Proclamation: announcement of the new monarch. Read out loud in public and in the presence of important people (e.g. judges, bishops, members of parliament, etc.)
+- Accesion: the new monarch is crowned. Monarch takes an oath of allegiance to the country and its people. Proclaimed in Parlament, by the Lords Spiritual and Temporal and folowed by the official coronation ceremony in Westminster Abbey.
+- Coronation: formal and ceremonial event that marks the begining of the new monarch reign. Usually takes place a few months after the accession to allow for preperations. In the coronation, the new monarch is crowned and given other symbols fo authority (eg. orb, sceptre, etc.), and anointed with holy oil by the archbishop of Canterbury.
+
+
+
+## Speech: "What can King Charles III do for young people?"
 

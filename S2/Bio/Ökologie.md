@@ -198,13 +198,13 @@ Regeln:
 
 - Bergmannsche Regeln:
 
-    Bei Gleichwarmen Tieren, die verwandt ind, ist das, wasin dem Kälteren Gebit lebt, größer ist
+    Bei Gleichwarmen Tieren, die verwandt sind, ist das, was in dem Kälteren Gebit lebt, größer ist
 
 - Allensche Regel:
 
-    Tierein kälteren Gebieten haben klinere Gliedmaßen (Ohren, Schwanz, Arme)
+    Tiere in kälteren Gebieten haben klinere Gliedmaßen (Ohren, Schwanz, Arme)
 
-Beide Regeln führen zu geingerer Oberfläche bzw. weniger Oberfläche im Verhältniss zum Volumen
+Beide Regeln führen zu geringerer Oberfläche bzw. weniger Oberfläche im Verhältniss zum Volumen
 
 Mehr Volumen -> Mehr Wärme
 Mehr Oberfläche -> Mehr Wärmeverslustin iner Kalten Umgebung
