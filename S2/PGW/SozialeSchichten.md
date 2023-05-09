@@ -39,4 +39,5 @@
 These:
 "Die Erhöhung der Körperschaftssteuer auf die damaligen 65% von 1946 würde zu einer reicheren Unterschicht führen, die die Wirtschaft ankurbelt und somit zu einem Wirtschaftswachstum führt."
 
-"Die Ermitlung der Reichen ist in Deutschland nicht erwünscht"
+"Die Ermittlung der Reichen ist in Deutschland nicht erwünscht"
+

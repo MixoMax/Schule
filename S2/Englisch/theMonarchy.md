@@ -49,5 +49,10 @@ the three stages of the coronation are:
 
 
 
-## Speech: "What can King Charles III do for young people?"
+## Multiculturalism in the UK
 
+|Pro|Contra|
+|---|---|
+| Food                          | social security costs |
+| more diversity / viewpoints   | national identity     |
+| international relations       | language barriers     |
