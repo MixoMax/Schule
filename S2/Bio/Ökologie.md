@@ -202,7 +202,7 @@ Regeln:
 
 - Allensche Regel:
 
-    Tiere in kälteren Gebieten haben klinere Gliedmaßen (Ohren, Schwanz, Arme)
+    Tiere in kälteren Gebieten haben kleinere Gliedmaßen (Ohren, Schwanz, Arme)
 
 Beide Regeln führen zu geringerer Oberfläche bzw. weniger Oberfläche im Verhältniss zum Volumen
 
@@ -213,3 +213,34 @@ Knackpunkt:
 
 verhältnis Oberfläche / Volumen
 
+
+## Eutrophierung und Stickstoffkreislauf
+
+Notizen zu den Filmen:
+
+- Großer Algentepich
+- Bruanalgen schaden Tourismus
+- Algen gefährden Meerestiere und Korallen
+- 100 Tausende Euro für die Reinigung der Algen in den Tourismus Gebieten
+- Algen können in 11 Tagen ihre Masse Verdoppeln, wenn sie genug Nährstoffe haben
+- Nährstoffe kommen durch dei Abrodung des Amazones Regenwaldes
+- Schildkröten schaffen es nicht an den Strand
+
+-
+
+- Algen verbrauchen Sauerstoff
+- Durch Nährstoffe und Dünger, pflanzen sich Algen schneller fort -> Weniger Sauerstoff
+- Fische Ersticken durch zu wenig Sauerstoff
+
+-
+
+- Oberflächen wasser wird wärmer, kann weniger Sauerstoff aufnehmen
+- zu wenig Sauerstoff in den Tieferen Schichten, da die Algen auf dem Meeresgrund absterben und von Bakterien, Suaerstoffintensiv, abgebaut werden
+
+-
+
+- EU Nitrat Richtlinie
+- Dünge wird woanders hin transportiert
+- Gülle kann in Wasser und einzelne Bestandteile seperiert werden
+
+Pflanzen, die mit Viel Stickstoff klarkommen haben einen Vorteil
