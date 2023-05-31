@@ -110,3 +110,4 @@ Verhältnis Theologie und Naturwissenschaften:
     - Komplementaritätsmodell: Beide ergänzen sich gegenseitig (z.B. Evolutionstheorie erklärt die Entstehung des Lebens, Theologie erklärt den Sinn des Lebens)
 
 - 
+

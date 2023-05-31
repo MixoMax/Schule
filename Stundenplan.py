@@ -39,7 +39,15 @@ wednesday = {
 }
 
 thursday = {
-    
+    "1": "Deutsch",
+    "2": "Deutsch",
+    "3": "Musik",
+    "4": "Musik",
+    "5": "Mathe",
+    "6": "Mathe",
+    "7": "Mittagspause",
+    "8": "Biologie",
+    "9": "Biologie",
 }
 
 friday = {
