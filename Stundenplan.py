@@ -68,7 +68,7 @@ def print_whole_day(day, time):
     next_lesson_name = day.get(next_lesson, "Ende der Schule")
 
     while True:
-        time_until_end_of_lesson = datetime.datetime.combine(datetime.date.today(), lesson_times[key][1]) - datetime.datetime.now()
+        time_until_end_of_lesson = datetime.timedelta(hours=lesson_times[next_lesson][1].hour, minutes=lesson_times[next_lesson][1].minute, seconds=lesson_times[next_lesson][1].second) - datetime.timedelta(hours=datetime.datetime.now().time().hour, minutes=datetime.datetime.now().time().minute, seconds=datetime.datetime.now().time().second)
         time_str = str(time_until_end_of_lesson).split(".")[0]
         hours, minutes, seconds = time_str.split(":")
         

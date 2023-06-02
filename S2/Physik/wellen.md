@@ -12,3 +12,14 @@ T = Periodendauer
 $\lambda$ = Wellenlänge
 
 Es gibt unterschiedlich Arten für Wellen, sich in einem Medium auszubreiten. Erfolgt die Schwingung längs der Ausbreitungsrichtung der Welle, so spricht man von Lonitudinalwellen. Bei einer Schwingung senkrecht zur Ausbreitungsrichtung der Welle liegt eine Transversalwelle vor.
+
+Begriffe:
+Wellenlänge: Abstand zweier benachbarter Wellenberge
+Frequenz: Anzahl vollständiger Schwingungen pro Sekunde
+Ausbreitungsgeschwindigkeit: c = $\lambda * f$ in m/s
+
+
+
+Elektromagnetischer Schwingkreis
+
+Schwingungsdauer: $I = 2 \pi \sqrt { L \cdot C}$

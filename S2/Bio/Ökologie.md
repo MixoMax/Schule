@@ -244,3 +244,7 @@ Notizen zu den Filmen:
 - Gülle kann in Wasser und einzelne Bestandteile seperiert werden
 
 Pflanzen, die mit Viel Stickstoff klarkommen haben einen Vorteil
+
+
+Gräßer sind einkeimblättrige (Monocotyledonae)
+
