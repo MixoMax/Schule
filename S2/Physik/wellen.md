@@ -18,8 +18,13 @@ Wellenlänge: Abstand zweier benachbarter Wellenberge
 Frequenz: Anzahl vollständiger Schwingungen pro Sekunde
 Ausbreitungsgeschwindigkeit: c = $\lambda * f$ in m/s
 
-
-
-Elektromagnetischer Schwingkreis
-
 Schwingungsdauer: $I = 2 \pi \sqrt { L \cdot C}$
+
+Elektromagnetischer Schwingkreis:
+
+
+
+## Superposition
+
+Durcheilen zwei Wellen ein Medium aufeinander zu und begegnen sich, so findet eine Überlagerung derart statt
+
