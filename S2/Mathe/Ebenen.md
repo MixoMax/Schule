@@ -27,3 +27,7 @@ von Parameterdarstellung in Normalenform:
 
 2 Vektoren finden, deren [Skalarprodukt](./Geraden.md#skalerprodukt) 0 ist gegenüber dem Normalvektor
 
+$\vec x = \begin{pmatrix} 2 \\ 2 \\ -2 \end{pmatrix} + r \cdot \begin{pmatrix} 4 \\ -2 \\ 1 \end{pmatrix} + s \cdot \begin{pmatrix} 0 \\ 2 \\ -3 \end{pmatrix}$
+
+E: 1x + 3y + 2z = 6
+

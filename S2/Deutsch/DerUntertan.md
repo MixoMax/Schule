@@ -11,3 +11,11 @@
 
 
 
+# Film: Der Untertan
+
+- Wie würde man den Film heutzutage Inszinieren?
+- Filmsprachlichen Mittel zur Darstellung Diederichs Charakter
+- Unterschiede zwischen Film und Buch
+
+---
+
