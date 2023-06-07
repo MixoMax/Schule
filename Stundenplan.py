@@ -35,7 +35,12 @@ tuesday = {
 }
 
 wednesday = {
-    
+    "1": "Religion",
+    "2": "Religion",
+    "3": "Geographie",
+    "4": "Geographie",
+    "5": "Physik",
+    "6": "Physik",
 }
 
 thursday = {
