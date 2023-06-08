@@ -19,3 +19,9 @@
 
 ---
 
+- Film ist deutlich Satirischer als das Buch
+- quasidokumentarischer Stil
+
+## Formen der Literarischen Erörterung
+
+- 
