@@ -47,9 +47,9 @@ Abriss vor 2014
 - Bochum als Arbeitsstadt von Stahl und Kohle
 - Düsseldorf als Kontrast zu Bochum (weniger Stahl und Kohle, mehr Terzierer Sektor (z.b. Versicherungen, Banken, etc.))
 - Probleme innerhalb Bochums
-- "koks" -> Wortspiel auf koks (prozess in der Stahlherstellung) und Kokain (droge)
-- Lokalpratitismus
-- Dreckige Luft, graue Häußer
+- "Koks" -> Wortspiel auf Koks (Prozess in der Stahlherstellung) und Kokain (Droge)
+- Lokalpratiatismus
+- Dreckige Luft, graue Häuser
 - Viel Verbaut, grüne Erholungsmöglchkeiten (z.B. Schrebergärten) nur außerhalb der Stadt
 
 ---
@@ -61,12 +61,12 @@ Wirtschaftssektoren Modell nach dem Modell von Fourastier
 
 ### 2a) Beschreiben sie die Wirtschaftsentwicklung des Ruhrgebietes.
 
-- Montan-Industrie (Kohle und Stahl). Kohlepreis-crash 1950 führt zu erster sekundarisierung. 
+- Montan-Industrie (Kohle und Stahl). Kohlepreis-crash 1950 führt zu erster sekundärarisierung. 
 - "Entwicklungsprogramm Ruhr 1968-1973" -> Förderung von Infrastruktur Ausbau und Bildung. Möchte das Image als "Schwarze Lunge" ändern.
 - 1970er Jahre: Aufbau des Kulturellen Sektors (vor allem Theater und Museen)
 - 1990er Jahre: InternetBoom -> Viele Internetfirmen in der Region Ruhrgebiet
 - Aus und Aufbau von Schulen und Universitäten
-- 2000er: Moto "Arbeiten am Park" -> Vergrünerung der Stadt
+- 2000er: Motto "Arbeiten am Park" -> Vergrünerung der Stadt
 - 2010er: 
 
 [quelle](https://www.ruhr-guide.de/freizeit/industriekultur/das-ruhrgebiet-die-entwicklung-und-der-strukturwandel/21960,0,0.html)
@@ -75,11 +75,11 @@ Wirtschaftssektoren Modell nach dem Modell von Fourastier
 
 |Jahr| 1950er |1968-1973|1970er|1990er|2000er| ⟶|
 |---| --- | --- | --- | --- | --- | --- |
-|Ereigniss| Kohlepreis-crash | Entwicklungsprogramm Ruhr 1968-1973 | Aufbau des Kulturellen Sektors | InternetBoom | Vergrünerung ||
+|Ereignis| Kohlepreis-crash | Entwicklungsprogramm Ruhr 1968-1973 | Aufbau des Kulturellen Sektors | InternetBoom | Vergrünerung ||
 
 
 
-### 3) Der jüngste Strukturwandel im Ruhrgebiet ist durch die Schließung von Kohle- und Stahlwerken gekennzeichnet. Stellen sei Ursache und Gegenmaßnahmen dar. Verwenden sie dabei die Schlagwörter "monostruktue, Deindustrialisierung, Reindustrialisierung, Tertiärisierung"
+### 3) Der jüngste Strukturwandel im Ruhrgebiet ist durch die Schließung von Kohle- und Stahlwerken gekennzeichnet. Stellen sei Ursache und Gegenmaßnahmen dar. Verwenden sie dabei die Schlagwörter "Monostruktur, Deindustrialisierung, Reindustrialisierung, Tertiärisierung"
 
 
 * Deindustrialisierung durch Schließung von Kohle- und Stahlwerken im Ruhrgebiet
