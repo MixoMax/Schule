@@ -19,7 +19,7 @@ Zusammenfassung:
 - Stützvektor + Spannvektoren
 - Normalvektor liegt senkrecht auf der Ebene
 - Parameterform: Stützvektor + s * Spannvektor1 + t * Spannvektor2
-- Skalarproduk des Normalvektors mit einem beliebigen Vektor auf der Ebene ist 0
+- Skalarprodukt des Normalvektors mit einem beliebigen Vektor auf der Ebene ist 0
 - 0 = $\vec{n} \cdot (\vec{x} - \vec{a})$
 - 
 
