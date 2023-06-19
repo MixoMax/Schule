@@ -94,10 +94,3 @@ def ascii_table(g1: Gerade, g2: Gerade) -> None:
         print(f"{labels[i]:<15} | {values[i]}")
 
 
-g1 = Gerade(Vec(1,1,1),Vec(1,2,-2))
-g2 = Gerade(Vec(3,5,-30),Vec(-3,-6,6))
-
-g1 = Gerade(Vec(0,0), Vec(1,1))
-g2 = Gerade(Vec(1,1), Vec(2,2))
-
-ascii_table(g1, g2)

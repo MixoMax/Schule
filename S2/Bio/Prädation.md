@@ -2,7 +2,7 @@
 
 Blattläuse brauchen deutlich weniger Zucker als Pflanzen. Blattläuse stechen gezielt in die Blattadern rein. Wenn die Zuckerkonzentration zu hoch wird.
 
-# Raubmilben und Spinnenmilben
+## Raubmilben und Spinnenmilben
 
 1. Ergänze die Regelkreissymbole in der Abbildung. Formuliere die damit Festgelegten Beziehungen mit den Begriffen "Räuber" und "Beute".
 
@@ -20,4 +20,14 @@ Blattläuse brauchen deutlich weniger Zucker als Pflanzen. Blattläuse stechen g
 4. Bisweilen wird behauptet: "Die Beute kontrolliert den Räuber"
     Die Population der Räuber wird aufgrund der gleichsinnigen Veränderung der Populationsdichte der Beute gesteuert. Nur wenn es genug Beute gibt, kann es mehr Räuber geben.
 5. Offensichtlich kontrolliert aber auch der Räuber die Beute
-    
+
+
+## Lotka-Volterra-Regeln
+
+1 % der Meere sind Korallenriffe, machen aber 25% der Aquatischen Lebewesen aus
+
+von 100 Hai-Babys kommen nur 1 durchschnittlich durch
+
+Korallen leben in Symbiose mit einzellern, die Photosynthese betreiben
+
+CO2 + H2O -> H2CO3 (Kohlensäure)
