@@ -28,3 +28,19 @@ Elektromagnetischer Schwingkreis:
 
 Durcheilen zwei Wellen ein Medium aufeinander zu und begegnen sich, so findet eine Überlagerung derart statt
 
+
+wie beeinflussen sich die eines Elektromagnetischen Schwingkreises?
+
+oder
+
+Wie regle ich die Frequenz eines Elektromagnetischen Schwingkreises?
+
+
+C = $\epsilon_0 * \epsilon_r * {A \over d}$
+
+L = $\mu_0 * \mu_r * {N^2 * A \over l}$
+
+T = $2 \pi \sqrt { L \cdot C}$
+
+f = ${1 \over 2 \pi \sqrt { L \cdot C}}$
+
