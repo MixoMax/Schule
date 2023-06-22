@@ -1,7 +1,7 @@
 # Ökologie
 
 
-##intra- undinterspezifische Beziehungen
+##intra- und interspezifische Beziehungen
 
 * Wechselbeziehungen
     * Parasitismus
@@ -12,7 +12,7 @@
 
 * exponentielles und logistisches Wachstum von Populationen
 
-* influss auf die Populationsdichte:
+* Einfluss auf die Populationsdichte:
     * biotische und abiotische Faktoren
     * dichteabhängige und dichteunabhängige Faktoren
 
@@ -126,28 +126,24 @@ c = spezifische Wärmekapazität
 
 Madagaskar vs Amrum:
 
-Auf Welcherinsel ind mehr Trophiestufen möglich?
+Auf welcher Insel ind mehr Trophiestufen möglich?
 
 
 
 ## Biomasse und Produktion zwischen Land und Wasser Ökosystemen
 
-Bei Wasserökosystemen folgt die Biomasseverteilung nicht iner Pyramide, da weniger Verlust durch abwärme stattindet, da Fische Wechselwarme Tiere ind.
 
-Wasserökosysteme haben inen höheren ökologischen Wirkungsgrad.ei Wasserökosystemen folgt die Biomasseverteilung nicht iner Pyramide, da weniger Verlust durch abwärme stattindet, da Fische Wechselwarme Tiere ind.
+Wasserökosysteme haben einen höheren ökologischen Wirkungsgrad. Wasserökosystemen folgt die Biomassenerteilung nicht einer Pyramide, da weniger Verlust durch Abwärme stattfindet, da Fische Wechselwarme Tiere sind.
 
-Wasserökosysteme haben inen höheren ökologischen Wirkungsgrad.
+Wasserökosysteme haben einen höheren ökologischen Wirkungsgrad.
 
-Primärproduktionin Wasserökosystemen ist effizienter alsin Landökosystemen. (Pro Biomasse)
-
-
-Primärproduktionin Wasserökosystemen ist effizienter alsin Landökosystemen. (Pro Biomasse)
+Primärproduktion in Wasserökosystemen ist effizienter als in Landökosystemen. (Pro Biomasse)
 
 
 Ökologische Effizienz geht nicht nach Biomasse, sondern Energie bzw. Produktion.
 
 
-inheiten:
+Einheiten:
 
 - Biomasse: g_trocken / m^2
 - Produktion: g_trocken / m^2 / Tag
@@ -185,13 +181,13 @@ Unterteilungen:
 
 | Klasse | Merkmale |
 |--------|----------|
-|insekten | 3 Binpaare, 3 Körpersegmente: Kopf, Thorax, Abdomen |
-| Sinnentiere | 4 Binpaare, 2 Körpersegmente: Kopf, Thorax |
+|Insekten | 3 Beinpaare, 3 Körpersegmente: Kopf, Thorax, Abdomen |
+| Spinnentiere | 4 Beinpaare, 2 Körpersegmente: Kopf, Thorax |
 
 
 ## Temperatur
 
-- 10 C -> 2x bis 3x Reaktionsgeschindigkeit
+- 10 C -> 2x bis 3x Reaktionsgeschwindigkeit
     - von 4 auf 34 C -> + 30 C -> 2**3 bis 3*3 -> = 8x bis 27x so schnelle Reaktionen
 
 Regeln:
@@ -204,26 +200,26 @@ Regeln:
 
     Tiere in kälteren Gebieten haben kleinere Gliedmaßen (Ohren, Schwanz, Arme)
 
-Beide Regeln führen zu geringerer Oberfläche bzw. weniger Oberfläche im Verhältniss zum Volumen
+Beide Regeln führen zu geringerer Oberfläche bzw. weniger Oberfläche im Verhältnis zum Volumen
 
 Mehr Volumen -> Mehr Wärme
-Mehr Oberfläche -> Mehr Wärmeverslustin iner Kalten Umgebung
+Mehr Oberfläche -> Mehr Wärmeverlust in einer Kalten Umgebung
 
 Knackpunkt:
 
-verhältnis Oberfläche / Volumen
+Verhältnis Oberfläche / Volumen
 
 
 ## Eutrophierung und Stickstoffkreislauf
 
 Notizen zu den Filmen:
 
-- Großer Algentepich
-- Bruanalgen schaden Tourismus
+- Großer Algenteppich
+- Braualgen schaden Tourismus
 - Algen gefährden Meerestiere und Korallen
 - 100 Tausende Euro für die Reinigung der Algen in den Tourismus Gebieten
 - Algen können in 11 Tagen ihre Masse Verdoppeln, wenn sie genug Nährstoffe haben
-- Nährstoffe kommen durch dei Abrodung des Amazones Regenwaldes
+- Nährstoffe kommen durch dei Abrodung des Amazonas Regenwaldes
 - Schildkröten schaffen es nicht an den Strand
 
 -
@@ -234,17 +230,17 @@ Notizen zu den Filmen:
 
 -
 
-- Oberflächen wasser wird wärmer, kann weniger Sauerstoff aufnehmen
-- zu wenig Sauerstoff in den Tieferen Schichten, da die Algen auf dem Meeresgrund absterben und von Bakterien, Suaerstoffintensiv, abgebaut werden
+- Oberflächen Wasser wird wärmer, kann weniger Sauerstoff aufnehmen
+- zu wenig Sauerstoff in den Tieferen Schichten, da die Algen auf dem Meeresgrund absterben und von Bakterien, Sauerstoffintensiv, abgebaut werden
 
 -
 
 - EU Nitrat Richtlinie
 - Dünge wird woanders hin transportiert
-- Gülle kann in Wasser und einzelne Bestandteile seperiert werden
+- Gülle kann in Wasser und einzelne Bestandteile separiert werden
 
 Pflanzen, die mit Viel Stickstoff klarkommen haben einen Vorteil
 
 
-Gräßer sind einkeimblättrige (Monocotyledonae)
+Gräser sind einkeimblättrige (Monocotyledonae)
 
