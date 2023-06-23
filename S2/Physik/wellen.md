@@ -44,3 +44,7 @@ T = $2 \pi \sqrt { L \cdot C}$
 
 f = ${1 \over 2 \pi \sqrt { L \cdot C}}$
 
+## Übertragung von Informationen
+
+Prüfbit:
+um fehlerhafte Daten zu korrigieren, wird in der Informatik ECC (error code correction), oder Prüfbits verwendet. Ein Prüfbit ist ein zusätzliches Bit, der eine Aussage darüber trifft, ob ein Block von Daten eine Gerade oder ungerade Anzahl an High Bits (1) enthält. Damit das system funktioniert, muss jeder Datenbit teil von mindestens zwei Prüfblöcken sein, damit wenn zwei Prüfbits falsch sind, der Fehler aufgefunden werden. Jede Kombination aus zwei Prüfblöcken darf aber auch nur genau einen Datenbit zusammen haben, damit der Fehler exakt gefunden werden kann.
