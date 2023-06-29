@@ -143,4 +143,34 @@ L = {-24, 6}
     1/1.5 = 2/3
     1/sqrt(2.25) = 2/3
 
+## 29/06/2023
+
+Gegeben sind die Ebene E: 2x + y + 2z = 6 sowie die Punkte P(1|0|2) und Q(5|2|6).
+
+4.1)
+
+    Normalvektor von E = (2|1|2) ist ein Vielfaches von AB = (4|2|4)
+
+4.2)
+
+    Orthogonaler Vektor zu AB = (-2|4|0)
+    2x+y+2z = 16
+
+3)
+Betrachtet wird der abgebildete Würfel ABCDEFGH. Die Eckpunkte D, E, F und H dieses Würfels besitzen in einem kartesischen Koordinatensystem die folgenden Koordinaten: D(0|0|-2), E(2|0|0), F(2|2|0), H(0|0|0)
+
+3.2) Der Punkt P liegt  auf der Kante FB des Würfels und hat vom Punkt H den Abstand 3. Berechnen sie die Koordinaten des Punkts P.
+
+    sqrt(2**2 + 2**2 + n**2) = 3
+    n = -1
+
+    P(2|2|-1)
+
+1.1)
+
+    2
+
+1.2)
+
+    Ableitung von F(2) = 0.5
     
