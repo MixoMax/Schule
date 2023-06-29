@@ -31,3 +31,20 @@ von 100 Hai-Babys kommen nur 1 durchschnittlich durch
 Korallen leben in Symbiose mit einzellern, die Photosynthese betreiben
 
 CO2 + H2O -> H2CO3 (Kohlensäure)
+
+
+## Wozu gibt es Wespen?
+
+Gedanke, dass jedes Lebewesen einen Zweck hat -> teleologisches /oder finalistisches Denken:
+
+    Die Existenz eines Lebewesen wird durch seine Funktion für das System erklärt.
+
+Unterschied zwischen "Sinn" und Evolutionärer Vorteil
+
+    Sinn: Zweck, Ziel, Absicht. Meistens mit einem Bewusstsein verbunden.
+    Evolutionärer Vorteil: Vorteil, der sich durch die natürliche Selektion über Generationen hinweg durchsetzt.
+
+    Begründung: final auf ein Ziel hin gerichtet
+    Erklärung: kausal, von etwas ausgelöst
+
+    
