@@ -13,7 +13,7 @@ Github Repository für Schulmitschriften und -aufgaben.
     - [Geo](S1/Geo/README.md)
     - [Mathe](S1/Mathe/README.md)
     - [Musik](S1/Musik/README.md)
-    - [PGW](S1/PGW/README.md)
+    - [PGW](PGW%20S1.md)
     - [Physik](S1/Physik/README.md)
     - [Religion](S1/Religion/README.md)
     - [SportTheorie](S1/SportTheorie/README.md)
@@ -25,11 +25,11 @@ Github Repository für Schulmitschriften und -aufgaben.
     - [Geo](S2/Geo/README.md)
     - [Mathe](S2/Mathe/README.md)
     - [Musik](S2/Musik/README.md)
-    - [PGW](S2/PGW/README.md)
-    - [Physik](S2/Physik/README.md)
+    - [PGW S2](PGW%20S2.md)
+    - [Physik](Physik%20S2.md)
     - [Religion](S2/Religion/README.md)
     - [SportTheorie](S2/SportTheorie/README.md)
-- [S3](S3/README.md)
+- [S3](S3%20Index.md)
 - [S4](S4/README.md)
 
 

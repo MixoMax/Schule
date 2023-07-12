@@ -11,7 +11,7 @@
 | Geo | Herr Kuske | [Geo](Geo/README.md) |
 | Mathe | Frau Storm | [Mathe](Mathe/README.md) |
 | Musik | Frau Paulus | [Musik](Musik/README.md) |
-| PGW | Frau Rädecke | [PGW](PGW/README.md) |
-| Physik | Herr Schnese | [Physik](Physik/README.md) |
+| PGW | Frau Rädecke | [PGW S2](PGW%20S2.md) |
+| Physik | Herr Schnese | [Physik](Physik%20S2.md) |
 | Religion | Frau Brand | [Religion](Religion/README.md) |
 | SportTheorie | Herr Schröder | [SportTheorie](SportTheorie/README.md) |

@@ -4,8 +4,7 @@
 
 Herr Schneese
 
-## [Formelsamlung](./Formelsammlung.md)
+## [Formelsamlung](
 
 ## Inhalte
-- [Magnetismus](./Magnetismus.md)
 - [Elektromangetismus](./Elektromagnetismus.md)
