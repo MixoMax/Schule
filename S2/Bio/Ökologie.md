@@ -1,7 +1,7 @@
-# Ökologie
 
 
-##intra- und interspezifische Beziehungen
+
+## intra- und interspezifische Beziehungen
 
 * Wechselbeziehungen
     * Parasitismus
@@ -92,6 +92,7 @@ Assimilation = Dissimilation + Produktion
 **Methodisceh Vorüberlegungen:**
 - Absoulute oder relative Werte?
 
+Siehe [[Temperatur]]
 
 Wärmeverlusst zwischen Stufen der Nahrungskette
 
