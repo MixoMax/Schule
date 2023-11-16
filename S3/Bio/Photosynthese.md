@@ -38,6 +38,4 @@ Wo kommt C5 her?
 6 Prozesse gleichzeitig, nur einer davon macht den letzten schritt.
 die anderen 5 stellen 30 C3 her, welche zu 6 C5 werden (nicht weiter erklärt)
 
-
-## AB "Calvin Zyklus"
-
+0,04% CO2 in der Atmosphäre

@@ -43,7 +43,7 @@ $\ln(Potenzwert) = \log_e(Potenzwert)$
 1. $\log_b(u*v) = \log_b(u)+\log_b(v)$
 2. $\log_b({u \over v}) = \log_b(u) - \log_b(b)$
 3. $\log_b(u^a) = a*\log_b(u)$
-4. $log_u(v) = {log_b(v) \over log_b(u)}$ für irgendeine positive reele b != 0 und b != 1
+4. $log_u(v) = {log_b(v) \over log_b(u)}$ für irgendeine positive reale b != 0 und b != 1
 
 
 ## Aufgabe 2

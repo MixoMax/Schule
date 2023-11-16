@@ -12,3 +12,9 @@ Die Wellen auf einer Seeoberfläche bei konstantem (1) Wind kann als polarisiert
 ---
 
 (1) konstanter wind: Wind, der sowohl in Geschwindigkeit, als auch in Richtung über den gesamten See gleich ist.
+
+### Welle Teilchen Dualismus
+
+- Interferenzmuster -> Welle
+- Photoeffekt: Photonen wechselwirken mit Elektronen
+

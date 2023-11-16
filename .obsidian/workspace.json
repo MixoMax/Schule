@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "511602cac0a6d823",
+        "id": "91dc2bf65638626b",
         "type": "tabs",
         "children": [
           {
-            "id": "0519e822571efd14",
+            "id": "4a3affe4712f9595",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S3/Physik/Schwingungen und Wellen.md",
+                "file": "S3/Bio/Neurobiologie.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffc5441cdc80c0b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S3/Bio/Nervenzellen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S3/Physik/Schwingungen und Wellen.md",
+                "file": "S3/Bio/Nervenzellen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S3/Physik/Schwingungen und Wellen.md",
+                "file": "S3/Bio/Nervenzellen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S3/Physik/Schwingungen und Wellen.md"
+                "file": "S3/Bio/Nervenzellen.md"
+              }
+            }
+          },
+          {
+            "id": "bf141fbd1cfdc565",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -150,44 +174,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0519e822571efd14",
+  "active": "ffc5441cdc80c0b8",
   "lastOpenFiles": [
-    "S3/Physik/Physik S3 Index.md",
-    "S3/Physik/Fermat´sches Prinzip.md",
-    "S3/Physik/Schwingungen und Wellen.md",
-    "gene.jpg",
-    "S3/Religion/Religion S3 Index.md",
-    "S3/Religion/Gottesbilder.md",
-    "S3/Religion/Die Parabel vom Gärtner.md",
-    "S2/Bio/C-map.md",
-    "S2/Bio/S2 Bio.md",
-    "S2/Bio/Temperatur.md",
-    "S2/Bio/Ökologie.md",
-    "S2/Bio/Gentechnik.md",
+    "S3/Bio/Neurobiologie.md",
+    "S3/Mathe/E-Funktion.md",
+    "chroma/chroma.sqlite3-journal",
+    "chroma/d34cb0d2-7459-45a1-a6ed-f7a8cde74974/index_metadata.pickle",
+    "chroma/d34cb0d2-7459-45a1-a6ed-f7a8cde74974/link_lists.bin",
+    "chroma/d34cb0d2-7459-45a1-a6ed-f7a8cde74974/length.bin",
+    "chroma/d34cb0d2-7459-45a1-a6ed-f7a8cde74974/header.bin",
+    "chroma/d34cb0d2-7459-45a1-a6ed-f7a8cde74974/data_level0.bin",
+    "chroma/d34cb0d2-7459-45a1-a6ed-f7a8cde74974",
+    "chroma/chroma.sqlite3",
+    "chroma",
+    "chroma/2521b9f9-00fa-4145-8a11-d9a18606e37d/link_lists.bin",
+    "S3/Religion/Religionskritik.md",
+    "S3/English/Crime and punishment.md",
+    "S3/Bio/Nervenzellen.md",
+    "S3/Deutsch/Erörterung.md",
+    "S3/Deutsch/Woyzeck.md",
+    "S3/Mathe/Stochastik.md",
+    "S3/Mathe/Arbeit Notizen.md",
+    "S3/Mathe/Mathe S3 Index.md",
+    "S3/Mathe/Nachholen.md",
+    "S3/Mathe/Kopfrechnen.md",
     "S3/Bio/Bio S3 Index.md",
     "S3/Deutsch/Deutsch S3 Index.md",
-    "S3/English/English S3 Index.md",
-    "S3/English/Crime and punishment.md",
-    "S3/Geographie/Geo S3 Index.md",
-    "S3/Mathe/Mathe S3 Index.md",
-    "S2/PGW/Gesellschaftskonzepte.md",
-    "S1/S1 Index.md",
+    "S3/Musik/Expressionismus.md",
+    "S3/Musik/Musik S3 Index.md",
+    "gene.jpg",
+    "S3/PGW/PGW S3 Index.md",
     "S3/PGW/Taiwan.md",
-    "S3/Bio/Photosynthese.md",
-    "S3/Deutsch/Woyzeck.md",
-    "S3/English",
-    "S3/English.md",
-    "S3/Physik/Polarisation.md",
-    "S3/Physik/huygensches Prinzip.md",
-    "S3/Deutsch",
-    "S3/Mathe/E-Funktion.md",
-    "S3/Religion",
-    "S3/PGW",
-    "S3/Bio",
-    "Geo",
-    "S3/Geographie",
-    "S3/Physik",
-    "S3/Mathe",
-    "Untitled 1"
+    "S3/Bio/Kohlenstoffkreislauf.md",
+    "S3/Geographie/Geo S3 Index.md",
+    "S3/Geographie/Disparitäten.md",
+    "S3/Religion/Gottesbilder.md",
+    "S3/Religion/Religion S3 Index.md",
+    "S3/English/Monster.md",
+    "S3/English/The American Justice system.md"
   ]
 }
