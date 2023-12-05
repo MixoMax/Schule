@@ -1,2 +1,6 @@
 
 *.gz
+
+
+/_code/*
+/chroma
