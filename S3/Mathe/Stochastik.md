@@ -9,7 +9,6 @@ $P(kaufen) = P(Werbung) * P(Produkt)$
 $P(kaufen) = 0.2 * 0.09$
 $P(kaufen) = 0,018$
 
-11) a
 
 gesamt Befragungen = 800
 Weiblich = 288
@@ -45,3 +44,40 @@ P(X=10) = 1/64
 
 Jeden Zug verliert man 17,2 Cent
 
+
+
+## Binomialverteilung
+
+
+P(t) = 0,6
+
+P(X>=2) = P(X=2) + P(X=3)
+
+$P(X=3) = 0,6*0,6*0,6 = 0,216$
+$P(X=2) = 0,6*0,6*0,4 * 3 = 0,432$
+
+$P(X=1)=0,6*0,4*0,4 * 3= 0,288$
+$P(X=0) = 0,4*0,4*0,4=0,064$
+
+
+Bernoulli kette
+$P(X=k) = ({n \over k}) * p^k * (1-p)^{n-k}$
+
+$({n \over k})$: Anzahl der Pfade wo $X=k$ bei $n$ ziehungen
+$p^k$: Wahrscheinlich p(X=k) * Anzahl der Treffer $k$
+$(1-p)^{n-k}$: Gegenwahrscheinlichkeit zu $p^k$
+
+
+für Binomialverteilungen:
+
+$E(X) = n*p$
+
+n = 10
+p = 0.8
+
+$E(X) = 8$
+
+eine Binomialverteilung ist symetrisch, wenn $p = 0.5$
+
+
+## Standardabweichung und Varianz

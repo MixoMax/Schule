@@ -92,6 +92,4 @@ in den Stammeskriegen 2012 hat Mali Frankreich um militärische hilfe gebeten. F
 - Institutionalistische Phase: Stärkung der Leistung von Staatlichen Institutionen
 - Wiederentdeckung der Armutsminderung: Armut in ex-Kolonialländern mindern (4)
 
-6) "Ex gibt nicht die eine Entwicklungsstrategie, es geht um eine sinnvolle Vernetzung" Nehmen sie Stellung zu dieser Aussage.
-
-- 
+6) "Es gibt nicht die eine Entwicklungsstrategie, es geht um eine sinnvolle Vernetzung" Nehmen sie Stellung zu dieser Aussage.
