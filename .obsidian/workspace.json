@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a41106a11a548db5",
+        "id": "24810b14b979aa0c",
         "type": "tabs",
         "children": [
           {
-            "id": "837dd4022320130d",
+            "id": "e20e9126a4261686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S3/Bio/Neurobiologie.md",
+                "file": "S4/Geo/Standortfaktoren.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S3/Bio/Neurobiologie.md",
+                "file": "S4/Geo/Standortfaktoren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S3/Bio/Neurobiologie.md",
+                "file": "S4/Geo/Standortfaktoren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S3/Bio/Neurobiologie.md"
+                "file": "S4/Geo/Standortfaktoren.md"
               }
             }
           }
@@ -146,27 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "837dd4022320130d",
+  "active": "e20e9126a4261686",
   "lastOpenFiles": [
-    "S3/Bio/Wie Nervenzellen Informationen verarbeiten.md",
-    "S3/Bio/Neurobiologie.md",
-    "S3/Deutsch/Erörterung.md",
-    "S3/English/Crime and punishment.md",
-    "S3/English/Mediation.md",
-    "S3/English/The American Justice system.md",
+    "S4/Geo/Standortfaktoren.md",
+    "S4/Geo",
+    "S4/Physik/Teilchen im Elektromagnetischen Feld.md",
+    "S4/Physik",
+    "S4/Religion/Fundamentalismus.md",
+    "S4/Religion",
+    "S4/PGW/Verfassung.md",
+    "S4/PGW",
+    "S4/Deutsch/Politisches Reden.md",
+    "S4/Deutsch",
+    "S4/Mathe/Kopfrechnen.md",
+    "S4/Mathe/Hypothesentest.md",
+    "S4/Mathe",
+    "S4",
+    "S3/Bio/Schmerzen.md",
+    "S3/Bio/Nervenzellen.md",
     "S3/Mathe/Stochastik.md",
-    "S3/Physik/Physik S3 Index.md",
-    "S3/Physik/Fermat´sches Prinzip.md",
-    "S3/Physik/Schwingungen und Wellen.md",
-    "S3/Physik/Polarisation.md",
     "S3/Mathe/Kopfrechnen.md",
-    "S3/PGW/Nato.md",
-    "S3/PGW/Seegerichtshof.md",
-    "S3/PGW/PGW S3 Index.md",
+    "S3/Religion/Religion S3 Index.md",
+    "S3/Religion/Fundamentalismus.md",
+    "S3/Religion/Religionskritik.md",
+    "S3/PGW/Ampelregierung.md",
+    "S3/Deutsch/Social Media.md",
+    "S3/English/Crime and punishment.md",
     "S3/English/Climate protests.md",
+    "S3/Bio/Neurotoxine.md",
     "S3/Physik/Quantencomputer.md",
-    "S3/Bio/Bio S3 Index.md",
-    "S3/Geographie/Disparitäten.md",
-    "S3/Bio/Nervenzellen.md"
+    "S3/Bio/Reflexe.md",
+    "S3/Bio/Neurobiologie.md",
+    "S3/Bio/Wie Nervenzellen Informationen verarbeiten.md",
+    "S3/Deutsch/Erörterung.md",
+    "S3/English/Mediation.md",
+    "S3/English/The American Justice system.md"
   ]
 }

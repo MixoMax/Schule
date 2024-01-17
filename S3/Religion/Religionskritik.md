@@ -1,4 +1,3 @@
-convincing the jury that the testemonies from the witnesses are not credible
 ## Feuerbach
 
 - Gott ist ein Produkt menschlicher Gedanken
@@ -37,5 +36,15 @@ a
 3) Erörtern sie aus der Perspektive eines modernen Theologen, welche Konsequenzen heute aus den Denkansätzen von Feuerbach und Marx zu ziehen ist
 
 
-## Richard Dawkins
+## Vertreter des neuen Atheismus
 
+
+### Sam Harris:
+- Der Glaube an etwas muss rechtfertigt werden
+- die meisten Religionen liefern keine standhafte Rechtfertigung, sowie es die Wissenschaften tun
+
+
+### Daniel Dennett
+
+- Evolution als Erkentniss, das der Mensch nicht besonder ist
+- 

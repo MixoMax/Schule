@@ -77,7 +77,22 @@ p = 0.8
 
 $E(X) = 8$
 
-eine Binomialverteilung ist symetrisch, wenn $p = 0.5$
+eine Binomialverteilung ist symmetrisch, wenn $p = 0.5$
 
 
 ## Standardabweichung und Varianz
+
+$var = n * p * (1-p)$
+$\sigma = \sqrt({var})$
+
+
+## Sigma Intervalle
+
+
+
+
+n = 50
+p = 0,5
+
+sigma = 3,5355
+25 + 2.33 * sigma
