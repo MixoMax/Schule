@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "24810b14b979aa0c",
+        "id": "8187244afc63b559",
         "type": "tabs",
         "children": [
           {
-            "id": "e20e9126a4261686",
+            "id": "84ed4e76cb41ecef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S4/Geo/Standortfaktoren.md",
+                "file": "S4/Bio/Evolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S4/Geo/Standortfaktoren.md",
+                "file": "S4/Bio/Evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S4/Geo/Standortfaktoren.md",
+                "file": "S4/Bio/Evolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S4/Geo/Standortfaktoren.md"
+                "file": "S4/Bio/Evolution.md"
               }
             }
           }
@@ -146,20 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e20e9126a4261686",
+  "active": "84ed4e76cb41ecef",
   "lastOpenFiles": [
-    "S4/Geo/Standortfaktoren.md",
-    "S4/Geo",
-    "S4/Physik/Teilchen im Elektromagnetischen Feld.md",
-    "S4/Physik",
+    "S4/Bio/Evolution.md",
+    "S4/English/Elizabethen Era.md",
+    "S4/Geo/Tourismus.md",
     "S4/Religion/Fundamentalismus.md",
+    "S4/Religion/PLs.md",
+    "S4/English/Vorabi.md",
+    "S4/Geo/Standortfaktoren.md",
+    "S4/Physik/Quanten.md",
+    "S4/English",
+    "S4/Mathe/Gebrochen rationale Funktionen.md",
+    "G.md",
+    "S4/Mathe/Normalverteilung.md",
+    "S4/Physik/Teilchen im Elektromagnetischen Feld.md",
+    "S4/Deutsch/Politisches Reden.md",
+    "S4/Mathe/Hypothesentest.md",
+    "S4/Mathe/Kopfrechnen.md",
+    "S4/Bio/Schmerz.md",
+    "S4/Bio",
+    "S4/Geo",
+    "S4/Physik",
     "S4/Religion",
     "S4/PGW/Verfassung.md",
     "S4/PGW",
-    "S4/Deutsch/Politisches Reden.md",
     "S4/Deutsch",
-    "S4/Mathe/Kopfrechnen.md",
-    "S4/Mathe/Hypothesentest.md",
     "S4/Mathe",
     "S4",
     "S3/Bio/Schmerzen.md",
@@ -170,16 +182,6 @@
     "S3/Religion/Fundamentalismus.md",
     "S3/Religion/Religionskritik.md",
     "S3/PGW/Ampelregierung.md",
-    "S3/Deutsch/Social Media.md",
-    "S3/English/Crime and punishment.md",
-    "S3/English/Climate protests.md",
-    "S3/Bio/Neurotoxine.md",
-    "S3/Physik/Quantencomputer.md",
-    "S3/Bio/Reflexe.md",
-    "S3/Bio/Neurobiologie.md",
-    "S3/Bio/Wie Nervenzellen Informationen verarbeiten.md",
-    "S3/Deutsch/Erörterung.md",
-    "S3/English/Mediation.md",
-    "S3/English/The American Justice system.md"
+    "S3/Deutsch/Social Media.md"
   ]
 }
