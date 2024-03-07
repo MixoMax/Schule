@@ -53,7 +53,7 @@ Immer nur einzelne Strukturen / Funktionen, nie ganze Organismen
 
 Defenition Homolog aus Lindner:
 
-    "Strukturen unterschiedlicher Funktionen, dia auf den gleichen Grundbauplan zurückgehen."
+    "Strukturen unterschiedlicher Funktionen, die auf den gleichen Grundbauplan zurückgehen."
 
 Fehler:
 
@@ -69,3 +69,17 @@ Evolutionsprozesse, die analoge Strukturen hervorbringen, da sie dem gleichen Se
 
 - Homologe Strukturen, trotz unterschiedlicher Funktionen
 - durch unterschiedlichen Selektionsdruck
+
+
+
+---
+
+## für dia arbeit
+
+- Lamarck + Fehler
+- allopatrische und sympatrische Artbildung
+- adaptive radiation
+- Konvergenz und Divergenz ( + Homologie und Analogie)
+- Isolationsmechanismen
+- Artentwicklung
+-  Begriffe: Morphospezies + Biospezies + Subspezies
