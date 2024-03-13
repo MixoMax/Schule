@@ -6,4 +6,3 @@ Common believes:
 
 ## Shakespeare
 
-
